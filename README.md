@@ -20,7 +20,7 @@ brew cask install mamp
 cd ~/Downloads
 curl -O https://wordpress.org/latest.zip
 unzip latest.zip; rm latest.zip
-mv wordpress ~/Documents/mat3rial-dev
+mv wordpress ~/Documents/mat3rial-dev/wordpress
 ```
 - Open MAMP's preference, press ```Web Server``` and indicate the folder of your project (e.g., ```~/Documents/mat3rial-dev/wordpress```)
 

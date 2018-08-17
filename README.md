@@ -11,8 +11,8 @@
 brew cask install mamp
 ```
 
-- Open MAMP and start the MAMP servers (button on the main app screen), and then ``Open Webstart page```
-- On the webpage search and click on phpMyAdmin
+- Open MAMP and start the MAMP servers (button on the main app screen), and then ```Open Webstart page```
+- On the webpage search and click on ```phpMyAdmin```
 - Press ```Databases``` and ```Create database```
 - Enter ```wordpress``` as the database name and press ```Create```
 

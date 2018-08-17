@@ -37,3 +37,5 @@ Password (database): root
 Database Host/server: localhost
 Table Prefix: wp_
 ```
+
+- Start working ...

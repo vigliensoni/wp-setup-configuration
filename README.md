@@ -1,7 +1,7 @@
 # Developing Wordpress Locally
-(Instructions taken from https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
+(Instructions summarized from https://codex.wordpress.org/Installing_WordPress_Locally_on_Your_Mac_With_MAMP)
 
-- Install Homebrew.
+- Install Homebrew (not really needed but useful)
 ```
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 ```

@@ -13,7 +13,7 @@ brew cask install mamp
 
 - Open the MAMP app and press ```Start servers```, and then ```Open Webstart page```
 - On the webpage search and click on ```phpMyAdmin```
-- Press ```Databases```. In ```Create database``` enter ```wordpress``` as the database name (or any other name you wany, but remember it) and press ```Create```
+- Press ```Databases```. In ```Create database``` enter ```wordpress``` as the database name (or any other name you want, but have to use this one when installing Wordpress) and press ```Create```
 
 - Download Wordpress and unzip folder
 ```
@@ -22,7 +22,7 @@ curl -O https://wordpress.org/latest.zip
 unzip latest.zip; rm latest.zip
 mv wordpress ~/Documents/mat3rial-dev/
 ```
-- Open MAMP's preference, press ```Web Server``` and indicate the folder of your project (e.g., ```~/Documents/mat3rial-dev/wordpress```)
+- Open MAMP's preferences, press ```Web Server``` and indicate the folder of your project (e.g., ```~/Documents/mat3rial-dev/wordpress```)
 
 - Run Wordpress 5-minute installation by going in the browser to
 http://localhost:8888
